@@ -1,11 +1,14 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('Zach_Ben_Trio_Pic.webp');
-    background-repeat: no-repeat;
-    background-size: contain;
     color: #333;
     margin: 0;
     padding: 0;
+}
+
+main {
+    background-image: url('Zach_Ben_Trio_Pic.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 header {
