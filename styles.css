@@ -1,7 +1,8 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #ff0000;
     background-image: url('Zach_Ben_Trio_Pic.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #333;
     margin: 0;
     padding: 0;
