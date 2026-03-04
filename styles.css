@@ -5,12 +5,6 @@ body {
     padding: 0;
 }
 
-main {
-    background-image: url('Zach_Ben_Trio_Pic.webp');
-    background-repeat: no-repeat;
-    background-size: contain;
-}
-
 header {
     background-color: #007BFF;
     color: white;
