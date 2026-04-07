@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Velvetyne';
+  src: url('fonts/Letters-Lavish.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /* Improves performance by showing fallback text while loading */
+}
+
 body {
     font-family: Arial, sans-serif;
     color: #333;
@@ -5,7 +13,12 @@ body {
     padding: 0;
 }
 
+h1{
+    font-family: 'Velvetyne', sans-serif;
+}
+
 header {
+    font-family: 'Velvetyne', sans-serif;
     background-color: #000;
     color: white;
     padding: 10px;
