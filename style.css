@@ -1,6 +1,6 @@
 @font-face {
   font-family: Velvetyne;
-  src: url('fonts/Letters-Lavish.otf') format('otf');
+  src: url('/workspaces/Eldon-Chen.github.io/fonts/Letters-Lavish.otf') format('otf');
   font-weight: normal;
   font-style: normal;
   font-display: swap; /* Improves performance by showing fallback text while loading */
