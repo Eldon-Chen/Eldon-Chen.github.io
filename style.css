@@ -1,5 +1,5 @@
 @font-face {
-  font-family: Velvetyne;
+  font-family: 'Velvetyne';
   src: url('/workspaces/Eldon-Chen.github.io/fonts/Letters-Lavish.otf') format('otf');
   font-weight: normal;
   font-style: normal;
@@ -14,7 +14,7 @@ body {
 }
 
 h1{
-    font-family: Velvetyne, sans-serif;
+    font-family: 'Velvetyne', sans-serif;
 }
 
 header {
