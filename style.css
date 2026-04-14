@@ -30,7 +30,7 @@ header {
   justify-content: center; /* Horizontal center */
   align-items: center;     /* Vertical center */
   height: 200px;           /* Height needed for vertical centering to be visible */
-  margin: 10%;
+  margin: 4%;
   padding:5%;
 }
 
