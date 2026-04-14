@@ -29,7 +29,7 @@ header {
   display: flex;
   justify-content: center; /* Horizontal center */
   align-items: center;     /* Vertical center */
-  height: 200px;           /* Height needed for vertical centering to be visible */
+  height: 100%;           /* Height needed for vertical centering to be visible */
 }
 
 .flex-container .flex-child {
