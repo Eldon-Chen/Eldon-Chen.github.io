@@ -25,6 +25,13 @@ header {
     text-align: center;
 }
 
+.flex-container {
+  display: flex;
+  justify-content: center; /* Horizontal center */
+  align-items: center;     /* Vertical center */
+  height: 200px;           /* Height needed for vertical centering to be visible */
+}
+
 nav ul {
     list-style-type: none;
     padding: 0;
