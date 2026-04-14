@@ -33,7 +33,7 @@ header {
   padding:5%;
 }
 
-.flex-container flex-child {
+.flex-container .flex-child {
   flex: 1 1 0;
   min-width: 0;
   background-color: #f1f1f1;
