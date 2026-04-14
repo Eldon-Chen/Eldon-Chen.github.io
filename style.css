@@ -32,6 +32,13 @@ header {
   height: 200px;           /* Height needed for vertical centering to be visible */
 }
 
+.container div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 24px;
+}
+
 nav ul {
     list-style-type: none;
     padding: 0;
